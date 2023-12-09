@@ -1,6 +1,6 @@
 ## Hi ，I'm Komaeka! :wave:
 
-- 🏡 个人技术博客：<a href="https://www.komaeka.fun" target="_blank">东方迷津筑</a>
+- 🏡 个人博客：<a href="https://www.komaeka.fun" target="_blank">东方迷津筑</a>
 - 💬 个人邮箱：komaeka@163.com  
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
